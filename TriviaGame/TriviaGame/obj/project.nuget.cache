@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "spBOQsnXyEMnj21AyIPAa+s7vUJIyGVbzDKX/cG17GyV5LLcagf6SpIE7CF6YbZUN3jspS8JdTdXsNIMAetH1Q==",
+  "dgSpecHash": "uYggzTbnb45/62H6y64lzrv5rdvK9+8t5pypOpzwzBGcfcdVnlnfaOb+yzYJBdSA26fwhYAyHj464XVJhWehtg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\charl\\dev\\intro_to_c#\\TriviaGame\\TriviaGame\\TriviaGame.csproj",
+  "projectFilePath": "C:\\Users\\charl\\dev\\intro_to_cs\\TriviaGame\\TriviaGame\\TriviaGame.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
