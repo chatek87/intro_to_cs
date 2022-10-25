@@ -1,0 +1,15 @@
+C:\Users\charl\dev\intro_to_c#\ConditionalsDemo\ConditionalsDemo\bin\Debug\net6.0\ConditionalsDemo.exe
+C:\Users\charl\dev\intro_to_c#\ConditionalsDemo\ConditionalsDemo\bin\Debug\net6.0\ConditionalsDemo.deps.json
+C:\Users\charl\dev\intro_to_c#\ConditionalsDemo\ConditionalsDemo\bin\Debug\net6.0\ConditionalsDemo.runtimeconfig.json
+C:\Users\charl\dev\intro_to_c#\ConditionalsDemo\ConditionalsDemo\bin\Debug\net6.0\ConditionalsDemo.dll
+C:\Users\charl\dev\intro_to_c#\ConditionalsDemo\ConditionalsDemo\bin\Debug\net6.0\ConditionalsDemo.pdb
+C:\Users\charl\dev\intro_to_c#\ConditionalsDemo\ConditionalsDemo\obj\Debug\net6.0\ConditionalsDemo.csproj.AssemblyReference.cache
+C:\Users\charl\dev\intro_to_c#\ConditionalsDemo\ConditionalsDemo\obj\Debug\net6.0\ConditionalsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\intro_to_c#\ConditionalsDemo\ConditionalsDemo\obj\Debug\net6.0\ConditionalsDemo.AssemblyInfoInputs.cache
+C:\Users\charl\dev\intro_to_c#\ConditionalsDemo\ConditionalsDemo\obj\Debug\net6.0\ConditionalsDemo.AssemblyInfo.cs
+C:\Users\charl\dev\intro_to_c#\ConditionalsDemo\ConditionalsDemo\obj\Debug\net6.0\ConditionalsDemo.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\intro_to_c#\ConditionalsDemo\ConditionalsDemo\obj\Debug\net6.0\ConditionalsDemo.dll
+C:\Users\charl\dev\intro_to_c#\ConditionalsDemo\ConditionalsDemo\obj\Debug\net6.0\refint\ConditionalsDemo.dll
+C:\Users\charl\dev\intro_to_c#\ConditionalsDemo\ConditionalsDemo\obj\Debug\net6.0\ConditionalsDemo.pdb
+C:\Users\charl\dev\intro_to_c#\ConditionalsDemo\ConditionalsDemo\obj\Debug\net6.0\ConditionalsDemo.genruntimeconfig.cache
+C:\Users\charl\dev\intro_to_c#\ConditionalsDemo\ConditionalsDemo\obj\Debug\net6.0\ref\ConditionalsDemo.dll
