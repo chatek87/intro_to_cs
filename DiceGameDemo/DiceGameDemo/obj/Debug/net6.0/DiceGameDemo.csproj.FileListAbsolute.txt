@@ -1,0 +1,15 @@
+C:\Users\charl\dev\intro_to_cs\DiceGameDemo\DiceGameDemo\bin\Debug\net6.0\DiceGameDemo.exe
+C:\Users\charl\dev\intro_to_cs\DiceGameDemo\DiceGameDemo\bin\Debug\net6.0\DiceGameDemo.deps.json
+C:\Users\charl\dev\intro_to_cs\DiceGameDemo\DiceGameDemo\bin\Debug\net6.0\DiceGameDemo.runtimeconfig.json
+C:\Users\charl\dev\intro_to_cs\DiceGameDemo\DiceGameDemo\bin\Debug\net6.0\DiceGameDemo.dll
+C:\Users\charl\dev\intro_to_cs\DiceGameDemo\DiceGameDemo\bin\Debug\net6.0\DiceGameDemo.pdb
+C:\Users\charl\dev\intro_to_cs\DiceGameDemo\DiceGameDemo\obj\Debug\net6.0\DiceGameDemo.csproj.AssemblyReference.cache
+C:\Users\charl\dev\intro_to_cs\DiceGameDemo\DiceGameDemo\obj\Debug\net6.0\DiceGameDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\intro_to_cs\DiceGameDemo\DiceGameDemo\obj\Debug\net6.0\DiceGameDemo.AssemblyInfoInputs.cache
+C:\Users\charl\dev\intro_to_cs\DiceGameDemo\DiceGameDemo\obj\Debug\net6.0\DiceGameDemo.AssemblyInfo.cs
+C:\Users\charl\dev\intro_to_cs\DiceGameDemo\DiceGameDemo\obj\Debug\net6.0\DiceGameDemo.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\intro_to_cs\DiceGameDemo\DiceGameDemo\obj\Debug\net6.0\DiceGameDemo.dll
+C:\Users\charl\dev\intro_to_cs\DiceGameDemo\DiceGameDemo\obj\Debug\net6.0\refint\DiceGameDemo.dll
+C:\Users\charl\dev\intro_to_cs\DiceGameDemo\DiceGameDemo\obj\Debug\net6.0\DiceGameDemo.pdb
+C:\Users\charl\dev\intro_to_cs\DiceGameDemo\DiceGameDemo\obj\Debug\net6.0\DiceGameDemo.genruntimeconfig.cache
+C:\Users\charl\dev\intro_to_cs\DiceGameDemo\DiceGameDemo\obj\Debug\net6.0\ref\DiceGameDemo.dll

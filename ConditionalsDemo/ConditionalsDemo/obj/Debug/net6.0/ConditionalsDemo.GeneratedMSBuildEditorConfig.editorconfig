@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConditionalsDemo
-build_property.ProjectDir = C:\Users\charl\dev\intro_to_c#\ConditionalsDemo\ConditionalsDemo\
+build_property.ProjectDir = C:\Users\charl\dev\intro_to_cs\ConditionalsDemo\ConditionalsDemo\

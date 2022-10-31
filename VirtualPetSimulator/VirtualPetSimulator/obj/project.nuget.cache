@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bTnivq2fP/+kU8XP+5IUmeMHyBHH5qXVrwLcXcpHzFEXHY24xkLh5B2iWkI7TDuxjjz+chVYvDpJdhAjaQk4Lw==",
+  "dgSpecHash": "7+sqWbDiqrxM8LAcElWr+JZaUBSl1qKZVo3KpZoyi/tg547l/1Lg2YH8UpiUrrZng7EMcz2XHN/XEQkCjH2uWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\charl\\dev\\intro_to_c#\\VirtualPetSimulator\\VirtualPetSimulator\\VirtualPetSimulator.csproj",
+  "projectFilePath": "C:\\Users\\charl\\dev\\intro_to_cs\\VirtualPetSimulator\\VirtualPetSimulator\\VirtualPetSimulator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
