@@ -1,0 +1,15 @@
+C:\Users\charl\dev\intro_to_cs\KeyboardMenuDemo\KeyboardMenuDemo\bin\Debug\net6.0\KeyboardMenuDemo.exe
+C:\Users\charl\dev\intro_to_cs\KeyboardMenuDemo\KeyboardMenuDemo\bin\Debug\net6.0\KeyboardMenuDemo.deps.json
+C:\Users\charl\dev\intro_to_cs\KeyboardMenuDemo\KeyboardMenuDemo\bin\Debug\net6.0\KeyboardMenuDemo.runtimeconfig.json
+C:\Users\charl\dev\intro_to_cs\KeyboardMenuDemo\KeyboardMenuDemo\bin\Debug\net6.0\KeyboardMenuDemo.dll
+C:\Users\charl\dev\intro_to_cs\KeyboardMenuDemo\KeyboardMenuDemo\bin\Debug\net6.0\KeyboardMenuDemo.pdb
+C:\Users\charl\dev\intro_to_cs\KeyboardMenuDemo\KeyboardMenuDemo\obj\Debug\net6.0\KeyboardMenuDemo.csproj.AssemblyReference.cache
+C:\Users\charl\dev\intro_to_cs\KeyboardMenuDemo\KeyboardMenuDemo\obj\Debug\net6.0\KeyboardMenuDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\intro_to_cs\KeyboardMenuDemo\KeyboardMenuDemo\obj\Debug\net6.0\KeyboardMenuDemo.AssemblyInfoInputs.cache
+C:\Users\charl\dev\intro_to_cs\KeyboardMenuDemo\KeyboardMenuDemo\obj\Debug\net6.0\KeyboardMenuDemo.AssemblyInfo.cs
+C:\Users\charl\dev\intro_to_cs\KeyboardMenuDemo\KeyboardMenuDemo\obj\Debug\net6.0\KeyboardMenuDemo.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\intro_to_cs\KeyboardMenuDemo\KeyboardMenuDemo\obj\Debug\net6.0\KeyboardMenuDemo.dll
+C:\Users\charl\dev\intro_to_cs\KeyboardMenuDemo\KeyboardMenuDemo\obj\Debug\net6.0\refint\KeyboardMenuDemo.dll
+C:\Users\charl\dev\intro_to_cs\KeyboardMenuDemo\KeyboardMenuDemo\obj\Debug\net6.0\KeyboardMenuDemo.pdb
+C:\Users\charl\dev\intro_to_cs\KeyboardMenuDemo\KeyboardMenuDemo\obj\Debug\net6.0\KeyboardMenuDemo.genruntimeconfig.cache
+C:\Users\charl\dev\intro_to_cs\KeyboardMenuDemo\KeyboardMenuDemo\obj\Debug\net6.0\ref\KeyboardMenuDemo.dll

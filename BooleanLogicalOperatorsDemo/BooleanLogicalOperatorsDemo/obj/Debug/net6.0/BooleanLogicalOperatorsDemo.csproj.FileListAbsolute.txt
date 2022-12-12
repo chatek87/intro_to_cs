@@ -1,0 +1,15 @@
+C:\Users\charl\dev\intro_to_cs\BooleanLogicalOperatorsDemo\BooleanLogicalOperatorsDemo\bin\Debug\net6.0\BooleanLogicalOperatorsDemo.exe
+C:\Users\charl\dev\intro_to_cs\BooleanLogicalOperatorsDemo\BooleanLogicalOperatorsDemo\bin\Debug\net6.0\BooleanLogicalOperatorsDemo.deps.json
+C:\Users\charl\dev\intro_to_cs\BooleanLogicalOperatorsDemo\BooleanLogicalOperatorsDemo\bin\Debug\net6.0\BooleanLogicalOperatorsDemo.runtimeconfig.json
+C:\Users\charl\dev\intro_to_cs\BooleanLogicalOperatorsDemo\BooleanLogicalOperatorsDemo\bin\Debug\net6.0\BooleanLogicalOperatorsDemo.dll
+C:\Users\charl\dev\intro_to_cs\BooleanLogicalOperatorsDemo\BooleanLogicalOperatorsDemo\bin\Debug\net6.0\BooleanLogicalOperatorsDemo.pdb
+C:\Users\charl\dev\intro_to_cs\BooleanLogicalOperatorsDemo\BooleanLogicalOperatorsDemo\obj\Debug\net6.0\BooleanLogicalOperatorsDemo.csproj.AssemblyReference.cache
+C:\Users\charl\dev\intro_to_cs\BooleanLogicalOperatorsDemo\BooleanLogicalOperatorsDemo\obj\Debug\net6.0\BooleanLogicalOperatorsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\intro_to_cs\BooleanLogicalOperatorsDemo\BooleanLogicalOperatorsDemo\obj\Debug\net6.0\BooleanLogicalOperatorsDemo.AssemblyInfoInputs.cache
+C:\Users\charl\dev\intro_to_cs\BooleanLogicalOperatorsDemo\BooleanLogicalOperatorsDemo\obj\Debug\net6.0\BooleanLogicalOperatorsDemo.AssemblyInfo.cs
+C:\Users\charl\dev\intro_to_cs\BooleanLogicalOperatorsDemo\BooleanLogicalOperatorsDemo\obj\Debug\net6.0\BooleanLogicalOperatorsDemo.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\intro_to_cs\BooleanLogicalOperatorsDemo\BooleanLogicalOperatorsDemo\obj\Debug\net6.0\BooleanLogicalOperatorsDemo.dll
+C:\Users\charl\dev\intro_to_cs\BooleanLogicalOperatorsDemo\BooleanLogicalOperatorsDemo\obj\Debug\net6.0\refint\BooleanLogicalOperatorsDemo.dll
+C:\Users\charl\dev\intro_to_cs\BooleanLogicalOperatorsDemo\BooleanLogicalOperatorsDemo\obj\Debug\net6.0\BooleanLogicalOperatorsDemo.pdb
+C:\Users\charl\dev\intro_to_cs\BooleanLogicalOperatorsDemo\BooleanLogicalOperatorsDemo\obj\Debug\net6.0\BooleanLogicalOperatorsDemo.genruntimeconfig.cache
+C:\Users\charl\dev\intro_to_cs\BooleanLogicalOperatorsDemo\BooleanLogicalOperatorsDemo\obj\Debug\net6.0\ref\BooleanLogicalOperatorsDemo.dll
