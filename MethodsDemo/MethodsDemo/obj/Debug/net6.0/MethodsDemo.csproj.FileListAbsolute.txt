@@ -1,0 +1,15 @@
+C:\Users\charl\dev\intro_to_cs\MethodsDemo\MethodsDemo\bin\Debug\net6.0\MethodsDemo.exe
+C:\Users\charl\dev\intro_to_cs\MethodsDemo\MethodsDemo\bin\Debug\net6.0\MethodsDemo.deps.json
+C:\Users\charl\dev\intro_to_cs\MethodsDemo\MethodsDemo\bin\Debug\net6.0\MethodsDemo.runtimeconfig.json
+C:\Users\charl\dev\intro_to_cs\MethodsDemo\MethodsDemo\bin\Debug\net6.0\MethodsDemo.dll
+C:\Users\charl\dev\intro_to_cs\MethodsDemo\MethodsDemo\bin\Debug\net6.0\MethodsDemo.pdb
+C:\Users\charl\dev\intro_to_cs\MethodsDemo\MethodsDemo\obj\Debug\net6.0\MethodsDemo.csproj.AssemblyReference.cache
+C:\Users\charl\dev\intro_to_cs\MethodsDemo\MethodsDemo\obj\Debug\net6.0\MethodsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\intro_to_cs\MethodsDemo\MethodsDemo\obj\Debug\net6.0\MethodsDemo.AssemblyInfoInputs.cache
+C:\Users\charl\dev\intro_to_cs\MethodsDemo\MethodsDemo\obj\Debug\net6.0\MethodsDemo.AssemblyInfo.cs
+C:\Users\charl\dev\intro_to_cs\MethodsDemo\MethodsDemo\obj\Debug\net6.0\MethodsDemo.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\intro_to_cs\MethodsDemo\MethodsDemo\obj\Debug\net6.0\MethodsDemo.dll
+C:\Users\charl\dev\intro_to_cs\MethodsDemo\MethodsDemo\obj\Debug\net6.0\refint\MethodsDemo.dll
+C:\Users\charl\dev\intro_to_cs\MethodsDemo\MethodsDemo\obj\Debug\net6.0\MethodsDemo.pdb
+C:\Users\charl\dev\intro_to_cs\MethodsDemo\MethodsDemo\obj\Debug\net6.0\MethodsDemo.genruntimeconfig.cache
+C:\Users\charl\dev\intro_to_cs\MethodsDemo\MethodsDemo\obj\Debug\net6.0\ref\MethodsDemo.dll

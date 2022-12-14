@@ -1,0 +1,15 @@
+C:\Users\charl\dev\intro_to_cs\ListsDemo\ListsDemo\bin\Debug\net6.0\ListsDemo.exe
+C:\Users\charl\dev\intro_to_cs\ListsDemo\ListsDemo\bin\Debug\net6.0\ListsDemo.deps.json
+C:\Users\charl\dev\intro_to_cs\ListsDemo\ListsDemo\bin\Debug\net6.0\ListsDemo.runtimeconfig.json
+C:\Users\charl\dev\intro_to_cs\ListsDemo\ListsDemo\bin\Debug\net6.0\ListsDemo.dll
+C:\Users\charl\dev\intro_to_cs\ListsDemo\ListsDemo\bin\Debug\net6.0\ListsDemo.pdb
+C:\Users\charl\dev\intro_to_cs\ListsDemo\ListsDemo\obj\Debug\net6.0\ListsDemo.csproj.AssemblyReference.cache
+C:\Users\charl\dev\intro_to_cs\ListsDemo\ListsDemo\obj\Debug\net6.0\ListsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\dev\intro_to_cs\ListsDemo\ListsDemo\obj\Debug\net6.0\ListsDemo.AssemblyInfoInputs.cache
+C:\Users\charl\dev\intro_to_cs\ListsDemo\ListsDemo\obj\Debug\net6.0\ListsDemo.AssemblyInfo.cs
+C:\Users\charl\dev\intro_to_cs\ListsDemo\ListsDemo\obj\Debug\net6.0\ListsDemo.csproj.CoreCompileInputs.cache
+C:\Users\charl\dev\intro_to_cs\ListsDemo\ListsDemo\obj\Debug\net6.0\ListsDemo.dll
+C:\Users\charl\dev\intro_to_cs\ListsDemo\ListsDemo\obj\Debug\net6.0\refint\ListsDemo.dll
+C:\Users\charl\dev\intro_to_cs\ListsDemo\ListsDemo\obj\Debug\net6.0\ListsDemo.pdb
+C:\Users\charl\dev\intro_to_cs\ListsDemo\ListsDemo\obj\Debug\net6.0\ListsDemo.genruntimeconfig.cache
+C:\Users\charl\dev\intro_to_cs\ListsDemo\ListsDemo\obj\Debug\net6.0\ref\ListsDemo.dll
